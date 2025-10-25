@@ -45,14 +45,8 @@ cd cadastro-de-discos
 npm install
 ```
 
-3. Compile o TypeScript:
-```Bash
-npm run build
-```
-- Isso irá transpilar os arquivos .ts para .js.
-
 4. Inicie o servidor Backend:
 ```Bash
-npm start
+npm run dev
 ``` 
 - Abra seu navegador e acesse: http://localhost:3000.
