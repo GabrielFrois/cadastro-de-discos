@@ -45,8 +45,9 @@ cd cadastro-de-discos
 npm install
 ```
 
-4. Inicie o servidor Backend:
+3. Inicie o servidor Backend:
 ```Bash
 npm run dev
 ``` 
 - Abra seu navegador e acesse: http://localhost:3000.
+
